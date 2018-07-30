@@ -266,7 +266,7 @@ p { margin: 1.375rem 0; } */
 }
 
 
-/ Animations /
+/* Animations */
 
 @keyframes spin {
   100% { transform: rotate(360deg); }
