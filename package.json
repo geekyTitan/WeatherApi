@@ -1,11 +1,22 @@
 {
-  "name": "weatherapp",
+  "name": "weatherapi",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyTitan/WeatherApi.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekyTitan/WeatherApi/issues"
+  },
+  "homepage": "https://github.com/geekyTitan/WeatherApi#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

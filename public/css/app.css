@@ -6,7 +6,7 @@
   width:200px;
 }
 body{
-  background-image:url('backgroud.jpg');
+  background-image:url('../images/backgroud.jpg');
 }
 
 .bg{
